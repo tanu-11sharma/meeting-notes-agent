@@ -1,0 +1,14 @@
+[00:00] Priya: Ok, let's kick off. Today we need to finalize the Q3 roadmap review timeline and figure out who owns the customer feedback synthesis.
+[00:01] Dev: Sounds good. I'll pull together the churn data from the last two quarters and share it with the team.
+[00:02] Priya: Great, can you get that done by Friday so we can review before the planning offsite?
+[00:03] Dev: Yes, I will have it ready by Friday.
+[00:04] Marcus: On the feedback synthesis side, we decided last week to focus only on enterprise accounts for this round, so I'll scope the survey to that segment.
+[00:05] Marcus: Sara to send the survey draft by Wednesday so legal has time to review it.
+[00:06] Sara: Got it, I'll have the draft ready by Wednesday.
+[00:07] Priya: One more thing - we agreed to push the mobile redesign launch to next quarter since design isn't ready.
+[00:08] Dev: Makes sense given the current bandwidth constraints across the team.
+[00:09] Marcus: Also a follow up item: someone needs to update the onboarding docs to reflect the new pricing tiers.
+[00:10] Priya: I'll take that action item and update the onboarding docs by end of next week.
+[00:11] Sara: Should we loop in support before publishing the new docs?
+[00:12] Priya: Good call, let's go with looping in support for a final review before publishing anything.
+[00:13] Marcus: Alright, I think that covers everything for today. Thanks everyone.
